@@ -1,7 +1,7 @@
 ---
 layout: listing
-slug: slug
-date: YYYY-MM
+slug: template
+date: YYYY-MM-DD
 title: Watch Name
 description: 
 image: 
@@ -15,7 +15,7 @@ price: 250
 
 - Case:
 - Band:
-- Face:
+- Dial:
 - Hands:
 - Movement: 
 

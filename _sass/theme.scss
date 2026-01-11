@@ -1,10 +1,6 @@
 
 @import "./variables.scss";
 
-@font-face {
-  font-family: "American Captain";
-  src: url(/assets/AmericanCaptain.otf)
-}
 
 ::selection {
   color: $backgroundDark2;
@@ -27,7 +23,6 @@ html {
 }
 
 h1 {
-  font-family: $americanCaptain;
   color: #fff;
   text-shadow: 1px 2px 0 #000a;
   font-size: 3em;
@@ -185,7 +180,6 @@ blockquote {
       color: $backgroundLight;
       font-size: 2em;
       font-style: normal;
-      font-family: $americanCaptain;
     }
 
     &:before {

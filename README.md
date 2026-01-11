@@ -1,6 +1,6 @@
-# Flanny Apps
+# Time After Time
 
-The Flanny Apps home page
+A "store" for watches I've modded
 
 ## Development
 
