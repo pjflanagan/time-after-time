@@ -2,7 +2,7 @@
 layout: post
 slug: seiko-field-green
 date: 2026-01-01
-title: Fields of gold
+title: Seiko Fields of gold
 description: Rugged feeling with a touch of class
 image: 
 # available | not-for-sale | sold
