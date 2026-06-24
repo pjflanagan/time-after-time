@@ -9,6 +9,9 @@ image:
 status: not-for-sale
 link: 
 price: 300
+
+band_width: 19
+case_diameter: 38
 ---
 
 An absolute favorite watch of mine is the Grand Seiko Snowflake
@@ -26,6 +29,8 @@ An absolute favorite watch of mine is the Grand Seiko Snowflake
 
 Week and day wheel with English and Spanish options.
 
+## Inspiration
+
 ## Assembly
 
 ### Attaching the Hands
@@ -36,6 +41,6 @@ Week and day wheel with English and Spanish options.
 
 ### Band Attached
 
-## Received Watch
+## Source Parts
 
 This watch was originally bought used. It came with minor cracks on the crystal. The day-of-the-week wheel was able to be changed using the crown. The band was not original. The automatic winding was quite loud.

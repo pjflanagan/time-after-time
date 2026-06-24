@@ -9,6 +9,9 @@ image:
 status: not-for-sale
 link: 
 price: 300
+
+band_width: 22
+case_diameter: 42
 ---
 
 This field watch features a green dial with classy gold hands. The leather band is tough and meant for everyday use.
@@ -34,3 +37,5 @@ Week and day wheel with English and Spanish options.
 ### Inserting the Movement
 
 ### Band Attached
+
+[Original](https://www.amazon.com/dp/B005NYLO08?ref=ive_vftp_hero_cx_pfo_vse-cards-ingress0)

@@ -5,7 +5,7 @@ date: 2025-12-01
 title: Garmin Chinese Watch Face
 description: Practice Mandarin
 image: 
-status: available
+status: digital
 link: https://apps.garmin.com/apps/c0748c90-06ef-4a73-94c5-4d2e51b02659
 price: 0
 ---

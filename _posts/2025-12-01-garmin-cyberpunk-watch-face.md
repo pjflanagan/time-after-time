@@ -5,7 +5,7 @@ date: 2025-12-01
 title: Garmin Cyberpunk Watch Face - FREE
 description: Based on Cyberpunk 2077
 image: 
-status: available
+status: digital
 link: https://apps.garmin.com/apps/2b923217-1208-41bb-be4e-67b09f7835c3
 price: 0
 ---

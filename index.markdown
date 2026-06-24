@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-description: Watch Mods
+description: Vintage Watch Mods
 image: ""
 ---
 
@@ -21,6 +21,10 @@ This is a collection of customized watches (mostly Seiko's) that I've made. I wo
     {% endif %}
   {% endfor %}
 </div>
+
+## Digital Watches
+
+<!-- TODO: Garmin -->
 
 ## Past Watches
 
